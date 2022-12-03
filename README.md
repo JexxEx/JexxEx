@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @JexxEx
+- 💻 I mainly code c++ 
