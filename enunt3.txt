@@ -1,0 +1,7 @@
+Să se afişeze numerele din intervalul [a, b] care au suma cifrelor un număr prim. Dacă nu există astfel de numere se va da un mesaj.
+Test Case 1
+ Input: 10 și 20
+ Output: 11, 12, 13, 14, 16, 20
+Test Case 2
+ Input: 701, 703
+ Output: nu exista

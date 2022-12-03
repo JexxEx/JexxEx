@@ -1,0 +1,1 @@
+(#127) Se dă un număr natural n, apoi n numere naturale. Să se calculeze suma obținută prin adunarea primei cifre a celor n numere citite.  Input: 5 și {100, 212, 3, 45, 5021}  Output: 15

@@ -1,0 +1,2 @@
+(#354) Se dau n numere întregi. Calculaţi cel mai mare dintre cele n numere date.  Input: 5 și {7, 6, 9, 6, 8}
+ Output: 9
